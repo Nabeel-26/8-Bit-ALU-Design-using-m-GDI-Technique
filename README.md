@@ -34,4 +34,5 @@ These are the logic functions implemented.
 
 
 Overall Performance:
-<img width="317" height="122" alt="image" src="https://github.com/user-attachments/assets/357120b0-8e74-4b0d-a216-2c42f3891a0d" />
+<img width="687" height="227" alt="image" src="https://github.com/user-attachments/assets/743f8408-ccd4-4098-96b2-3041266020e4" />
+
