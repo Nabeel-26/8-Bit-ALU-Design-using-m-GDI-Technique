@@ -31,3 +31,7 @@ These are the logic functions implemented.
 <img width="556" height="296" alt="image" src="https://github.com/user-attachments/assets/969602a7-bbd6-44d3-b104-06c31d01a2e2" />
 
 <img width="557" height="326" alt="image" src="https://github.com/user-attachments/assets/9f5adaf8-0050-406c-9eda-7a879f8687c9" />
+
+
+Overall Performance:
+<img width="317" height="122" alt="image" src="https://github.com/user-attachments/assets/357120b0-8e74-4b0d-a216-2c42f3891a0d" />
