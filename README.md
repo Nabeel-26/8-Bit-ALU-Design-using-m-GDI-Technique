@@ -15,8 +15,7 @@ subtractor circuits used in the ALU. The simulation results are carried out usin
 EDA at 180nm. The results show that the proposed design consume less power using a 
 smaller number of transistors.
 
-<img width="202" height="231" alt="image" src="https://github.com/user-attachments/assets/86f2661d-eb7b-4975-b2c7-b7c2bfdad642" />
 
-<img width="200" height="263" alt="image" src="https://github.com/user-attachments/assets/f07fbada-36fb-4f13-89ff-79a3483805b2" />
+These are the logic functions implemented.
 
-<img width="203" height="226" alt="image" src="https://github.com/user-attachments/assets/a9a338f0-7429-4e44-a3dd-f2542bcf3c0c" />
+<img width="554" height="334" alt="image" src="https://github.com/user-attachments/assets/2c91dc0a-28be-4579-811b-742bc52fae9b" />
