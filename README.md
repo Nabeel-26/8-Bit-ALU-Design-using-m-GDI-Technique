@@ -14,3 +14,9 @@ project, a Novel 2T XOR gate is designed which is used for the Full adder and
 subtractor circuits used in the ALU. The simulation results are carried out using Tanner 
 EDA at 180nm. The results show that the proposed design consume less power using a 
 smaller number of transistors.
+
+<img width="202" height="231" alt="image" src="https://github.com/user-attachments/assets/86f2661d-eb7b-4975-b2c7-b7c2bfdad642" />
+
+<img width="200" height="263" alt="image" src="https://github.com/user-attachments/assets/f07fbada-36fb-4f13-89ff-79a3483805b2" />
+
+<img width="203" height="226" alt="image" src="https://github.com/user-attachments/assets/a9a338f0-7429-4e44-a3dd-f2542bcf3c0c" />
