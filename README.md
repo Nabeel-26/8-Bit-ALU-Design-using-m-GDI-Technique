@@ -19,3 +19,15 @@ smaller number of transistors.
 These are the logic functions implemented.
 
 <img width="554" height="334" alt="image" src="https://github.com/user-attachments/assets/2c91dc0a-28be-4579-811b-742bc52fae9b" />
+
+<img width="557" height="319" alt="image" src="https://github.com/user-attachments/assets/eda3beb4-be1f-4f48-bc9b-b9e68c803b16" />
+
+<img width="553" height="248" alt="image" src="https://github.com/user-attachments/assets/e5ce422a-f815-4535-9164-a8077584c936" />
+
+<img width="553" height="242" alt="image" src="https://github.com/user-attachments/assets/ccdaa653-22fe-4d8b-8239-05c1c7a468bb" />
+
+<img width="557" height="247" alt="image" src="https://github.com/user-attachments/assets/215189d6-a9ae-4b89-980c-cbbeeb7dd12d" />
+
+<img width="556" height="296" alt="image" src="https://github.com/user-attachments/assets/969602a7-bbd6-44d3-b104-06c31d01a2e2" />
+
+<img width="557" height="326" alt="image" src="https://github.com/user-attachments/assets/9f5adaf8-0050-406c-9eda-7a879f8687c9" />
